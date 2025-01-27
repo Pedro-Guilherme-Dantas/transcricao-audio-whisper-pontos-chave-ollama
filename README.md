@@ -1,0 +1,1 @@
+# Transcri-o-de-udio-com-Whisper-e-Extra-o-de-Pontos-Chave-com-Ollama
